@@ -55,8 +55,8 @@ public class Main {
         Random check =new Random();
         int min=0,max=100;
         int numbers =min + check.nextInt(max);
-        Games gh=new Games(numbers);
-        gh.get();
+        Games obj=new Games(numbers);
+        obj.get();
 
 
     }
