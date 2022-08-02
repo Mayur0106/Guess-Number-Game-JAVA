@@ -56,7 +56,7 @@ public class Main {
         int min=0,max=100;
         int numbers =min + check.nextInt(max);
         Games obj=new Games(numbers);
-        obj.get();
+        obj.get( );
 
 
     }
