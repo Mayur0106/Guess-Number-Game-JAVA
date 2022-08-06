@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Games
 {
-    Scanner generator=new Scanner(System.in);
+    Scanner generator=new Scanner(System.in );
 
     boolean checker = true;
 
