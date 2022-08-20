@@ -36,7 +36,7 @@ class Games
             {
                 System.out.println("Given number is greater than random number  \n");
             }
-            else {
+            else{
 
                 System.out.printf(" \n\tCongratulation %s...! \n ",name);
                 System.out.printf("\tGuess the number is %d attempt.",count);
