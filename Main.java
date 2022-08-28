@@ -14,7 +14,7 @@ class Games
     Games(int num)
     {
         Random_number=num;
-        System.out.print("Enter player name :  ");
+        System.out.print("Enter player name : ");
         String  name=generator.nextLine();
         name=name;
         System.out.println("--------------- START ---------------");
